@@ -14,4 +14,4 @@ spec:
 
   type: LoadBalancer 
 
-  kubectl expose webapp --type=NodePort --targerPort=80 --
+  kubectl expose webapp --type=NodePort --targetPort=80 --
